@@ -70,5 +70,3 @@ Constraints:
 
 - The number of indexes in each array is in the range [1, 100].
 - 0 <= digit.val <= 9
-
- [My Final Solution](https://leetcode.com/submissions/detail/1345760656/)
